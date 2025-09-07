@@ -62,33 +62,6 @@ fun_fact: "I can simulate EV battery consumption with 90% accuracy and automate 
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gzizouseif24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzizouseif24&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gzizouseif24&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gzizouseif24&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gzizouseif24&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
-</div>
-
 
 ## 🤝 Connect With Me
 
