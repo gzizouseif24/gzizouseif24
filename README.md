@@ -89,63 +89,6 @@ fun_fact: "I can simulate EV battery consumption with 90% accuracy and automate 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gzizouseif24&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 </div>
 
----
-
-## 🎵 Currently Vibing To
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=7F3FBF)](https://open.spotify.com/user/your-spotify-username)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/gzizouseif24/google_agents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzizouseif24&repo=google_agents&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/gzizouseif24/rag-agent-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzizouseif24&repo=rag-agent-app&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/gzizouseif24/Artisania">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzizouseif24&repo=Artisania&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/gzizouseif24/wordle-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzizouseif24&repo=wordle-frontend&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-## 💼 What I'm Up To
-
-- 🔭 I'm currently working on **AI-powered automation systems and RAG applications**
-- 🌱 I'm currently learning **Advanced Google Cloud AI services and LLM optimization**
-- 🔋 Recently completed **EV battery simulation projects with 90% accuracy**
-- 🤖 Built **HR automation workflows that cut screening time by 90%**
-- 👯 I'm looking to collaborate on **AI automation projects and sustainable technology**
-- 🤔 I'm looking for help with **scaling ML models in production environments**
-- 💬 Ask me about **Mechatronics, AI automation, battery engineering, and workflow optimization**
-- 📫 How to reach me: **gzizou.seif@gmail.com**
-- ⚡ Fun fact: **I designed a lithium-ion battery pack that reduced production costs by 57%!**
-
----
-
-## 🏗️ Recent Achievements
-
-- **🚀 AI Automation**: Built complete HR recruitment automation reducing manual work by 90%
-- **🔋 Battery Engineering**: Simulated motorcycle battery energy consumption with 90% accuracy
-- **🌐 RAG Systems**: Deployed production-ready visa document agent on Google Cloud Run
-- **⚙️ Workflow Automation**: Created n8n workflows for business process automation
-- **🚗 EV Technology**: Designed optimal battery pack layouts for 400km range vehicles
-- **📱 Full-Stack Development**: Built complete e-commerce platform for Tunisian artisans
-
----
 
 ## 🤝 Connect With Me
 
