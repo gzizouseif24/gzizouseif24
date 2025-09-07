@@ -74,18 +74,6 @@ fun_fact: "I can simulate EV battery consumption with 90% accuracy and automate 
 
 </div>
 
----
-
-## 📊 Profile Views & Visitors
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=gzizouseif24&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
 <div align="center">
   
 ### Show some ❤️ by starring some of my repositories!
